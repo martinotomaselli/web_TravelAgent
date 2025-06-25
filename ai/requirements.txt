@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+langchain==0.1.14
+langchain-openai==0.0.6      # serve per i dataclass comuni
+langchain-community==0.0.36  # driver ChatOllama
+
